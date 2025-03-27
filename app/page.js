@@ -5,8 +5,11 @@ export default function Home() {
     <div className="bg-gray-900 p-2">
       <div className="flex">
         <div className="m-2 p-2">
-          <div className="flex gap-2 text-white"><div className="text-3xl">Welcome to </div><div className="text-3xl text-purple-500 font-bold">Cloud Vm Installation Hub</div></div>
-          <div>Confused with Cloud Vm commands </div>
+          <div className="flex gap-2 text-white"><div className="text-3xl">Welcome to </div><div className="text-3xl text-purple-500 font-extrabold">Cloud Vm Installation Hub</div></div>
+          <div className="flex gap-2 text-xl"><div className="text-white">Know About</div><div className="text-purple-500">AWS</div></div>
+          <div className="text-gray-400">
+          Unlock the power of the cloud, virtualization, and version control with our all-in-one command guide! Whether you're navigating AWS, managing virtual machines, mastering computer networks, or streamlining your Git workflow, our curated collection of essential commands makes it easy to learn and execute with confidence. Simplify your workflow and level up your skills—explore now!
+          </div>
         </div>
       </div>
       <div className="flex justify-center items-center gap-5">
