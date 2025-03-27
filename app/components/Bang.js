@@ -6,7 +6,7 @@ const Bang = () => {
         <div className=''>
             <div className='flex justify-center items-center'>
             <div className='bg-[#0000005b] rounded-full px-7 py-7'>
-                <Image src="/comp.gif" width={200} height={200} alt='aws' />
+                <img src="/comp.gif" width={200} height={200} alt='aws' />
             </div>
             
             </div>
